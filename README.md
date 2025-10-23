@@ -2,11 +2,11 @@ Repositório contendo o código em Python desenvolvido para o projeto de Inicia�
 
 O programa implementa todas as etapas do algoritmo RSA, incluindo:
 
-Pré-codificação da mensagem: trad, divisão, impressão
+*Pré-codificação da mensagem: trad, divisão, impressão
 
-Cálculo de chaves e operações matemáticas: mdc, inv, gerarchaves
+*Cálculo de chaves e operações matemáticas: mdc, inv, gerarchaves
 
-Codificação e decodificação: cod, decod
+*Codificação e decodificação: cod, decod
 
 Tradução de volta para caracteres: destrad, cod_para_men
 
